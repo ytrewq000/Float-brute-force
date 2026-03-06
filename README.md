@@ -1,0 +1,1 @@
+float on python has a length limit too not just a size limit, milage of float acuraccy, switching to linux has higher max float bit would give a larger number but PowerPC highest max float bit at 128 bit, 2x improvment from windows is the biggest, this is as optimized as i could make it
